@@ -24,12 +24,13 @@ namespace dotnetConsoleApp2
             Str2 = "SECOND";
             Str3 = "THIRD";
             Console.WriteLine(Str2, Str3);
-            Console.ReadKey();  
+            Console.ReadKey();
+
+
+            ///Console.ReadKey();
 
 
 
-
-            
         }
     }
 }
