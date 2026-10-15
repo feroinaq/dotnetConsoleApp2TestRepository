@@ -15,7 +15,21 @@ namespace dotnetConsoleApp2
 
             Console.WriteLine(Str);
             Console.WriteLine(Num);
-            Console.ReadKey();
+
+            string Str2, Str3;
+
+            float Sum = 20.0f / 6;
+
+            Console.WriteLine(Sum);
+            Str2 = "SECOND";
+            Str3 = "THIRD";
+            Console.WriteLine(Str2, Str3);
+            Console.ReadKey();  
+
+
+
+
+            
         }
     }
 }
